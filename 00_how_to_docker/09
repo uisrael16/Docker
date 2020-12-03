@@ -1,0 +1,3 @@
+apt-get update
+apt-get upgrade -y
+apt install -y clang git
